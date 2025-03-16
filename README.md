@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Abhishek! 👋</h1>  
+<h1 align="center">Hey there, I'm PraBhaT_PraJaPaTi 👋</h1>  
 <p align="center">
     🚀 Full Stack Developer | 💻 Java Enthusiast | ❤️ Lifelong Learner
 </p>
@@ -36,30 +36,11 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-<p align="center">  
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CoderAbhi.0713&show_icons=true&theme=radical" />  
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAbhi.0713&theme=radical" />  
-</p>  
-
----
-
-### 🌐 **Connect with Me**  
-<p align="center">  
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>  
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>  
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"></a>  
-</p>
-
-
----
-
 ### 🌐 **Connect with Me**  
 <p align="center">  
   <a href="linkedin.com/in/prabhat-prajapati-01p6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>  
   <a href="prabhatprajapti01"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>  
 </p>
-
 
 ---
 
