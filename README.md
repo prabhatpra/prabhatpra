@@ -1,11 +1,58 @@
-<h1 align="center">Hey there, I'm PraBhaT_PraJaPaTi 👋</h1>  
-<p align="center">
-    🚀 Full Stack Developer | 💻 Java Enthusiast | ❤️ Lifelong Learner
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/00000000/00000000-00000000-0000-0000-0000-000000000000.gif" alt="banner" width="100%"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PraBhaT_PraJaPaTi</title>
+    <style>
+        body {
+            background-color: #0a192f;
+            color: #ccd6f6;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            overflow: hidden;
+        }
+        .container {
+            position: relative;
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .animated-text {
+            font-size: 60px;
+            font-weight: bold;
+            color: #64ffda;
+            text-shadow: 0px 0px 20px #64ffda;
+            opacity: 0;
+            animation: fadeInOut 3s infinite alternate;
+        }
+        @keyframes fadeInOut {
+            0% { opacity: 0; transform: scale(0.8); }
+            50% { opacity: 1; transform: scale(1.2); }
+            100% { opacity: 0; transform: scale(0.8); }
+        }
+        .glow {
+            font-size: 24px;
+            color: #64ffda;
+            text-shadow: 0px 0px 10px #64ffda;
+            animation: glow 2s infinite alternate;
+        }
+        @keyframes glow {
+            from { opacity: 1; }
+            to { opacity: 0.5; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="animated-text">Hey there, I'm PraBhaT_PraJaPaTi 👋</h1>
+        <p class="glow">🚀 Full Stack Developer | 💻 Java Enthusiast | ❤️ Lifelong Learner</p>
+    </div>
+</body>
+</html>
 
 ---
 
