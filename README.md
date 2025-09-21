@@ -4,106 +4,58 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PraBhaT_PraJaPaTi</title>
-  <style>
-    body {
-      background-color: #0a192f;
-      color: #ccd6f6;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      overflow-x: hidden;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      position: relative;
-      width: 100%;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-    }
-    .animated-text {
-      font-size: 60px;
-      font-weight: bold;
-      color: #64ffda;
-      text-shadow: 0px 0px 20px #64ffda;
-      opacity: 0;
-      animation: fadeInOut 3s infinite alternate;
-    }
-    @keyframes fadeInOut {
-      0% { opacity: 0; transform: scale(0.8); }
-      50% { opacity: 1; transform: scale(1.2); }
-      100% { opacity: 0; transform: scale(0.8); }
-    }
-    .glow {
-      font-size: 24px;
-      color: #64ffda;
-      text-shadow: 0px 0px 10px #64ffda;
-      animation: glow 2s infinite alternate;
-    }
-    @keyframes glow {
-      from { opacity: 1; }
-      to { opacity: 0.5; }
-    }
-    .section {
-      max-width: 800px;
-      margin: 40px auto;
-      text-align: left;
-      padding: 20px;
-      line-height: 1.8;
-    }
-    h2 {
-      color: #64ffda;
-      margin-bottom: 10px;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li::before {
-      content: "✔️ ";
-      color: #64ffda;
-    }
-    .quote {
-      text-align: center;
-      font-size: 20px;
-      margin-top: 40px;
-      color: #64ffda;
-    }
-  </style>
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-  <div class="container">
-    <h1 class="animated-text">Hey there, I'm PraBhaT_PraJaPaTi 👋</h1>
-    <p class="glow">🚀 Full Stack Developer | 💻 Java Enthusiast | ❤️ Lifelong Learner</p>
+<body class="bg-gradient-to-br from-[#0a192f] to-[#020c1b] text-[#ccd6f6] font-sans">
+
+  <!-- Hero Section -->
+  <div class="flex flex-col justify-center items-center text-center h-screen">
+    <h1 class="text-6xl md:text-7xl font-bold text-[#64ffda] animate-pulse drop-shadow-[0_0_20px_rgba(100,255,218,0.7)]">
+      Hey there, I'm PraBhaT_PraJaPaTi 👋
+    </h1>
+    <p class="mt-4 text-xl md:text-2xl text-[#64ffda] animate-pulse">
+      🚀 Full Stack Developer | 💻 Java Enthusiast | ❤️ Lifelong Learner
+    </p>
   </div>
 
-  <div class="section">
-    <h2>🧑‍💻 About Me</h2>
-    <ul>
-      <li>Experienced Java Full Stack Developer</li>
-      <li>Passionate about building scalable web applications</li>
-      <li>Always ready to help and collaborate on exciting projects</li>
-      <li>Continuously learning new tech trends</li>
+  <!-- About Me Section -->
+  <div class="max-w-3xl mx-auto my-10 p-6 bg-[#112240] border-l-4 border-[#64ffda] rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
+    <h2 class="text-3xl text-[#64ffda] mb-4">🧑‍💻 About Me</h2>
+    <ul class="list-none space-y-3 text-lg">
+      <li>✔️ Experienced Java Full Stack Developer with 3+ years of professional experience</li>
+      <li>✔️ Passionate about building scalable and maintainable web applications</li>
+      <li>✔️ Skilled in Java, React, Spring Boot, and modern frontend & backend tools</li>
+      <li>✔️ Collaborative team player, always ready to help and mentor others</li>
+      <li>✔️ Continuously learning new tech trends and best practices</li>
+      <li>✔️ Strong problem-solving mindset and focus on clean, efficient code</li>
     </ul>
+    <p class="mt-4 text-[#64ffda] italic">
+      💡 "I believe in writing code that not only works but is easy to read and maintain."
+    </p>
   </div>
 
-  <div class="section">
-    <h2>🚀 Tech Stack</h2>
-    <p><b>Programming Languages:</b> Java, Python, JavaScript</p>
-    <p><b>Frontend Frameworks:</b> React, Vite, Tailwind CSS</p>
-    <p><b>Backend:</b> Spring Framework, Spring Boot, Spring JDBC, Microservices</p>
-    <p><b>Database:</b> MySQL, MongoDB, PostgreSQL</p>
-    <p><b>Cloud & Hosting:</b> AWS, Firebase, Vercel</p>
+  <!-- Tech Stack Section -->
+  <div class="max-w-3xl mx-auto my-10 p-6 bg-[#112240] border-l-4 border-[#64ffda] rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
+    <h2 class="text-3xl text-[#64ffda] mb-4">🚀 Tech Stack</h2>
+    <p class="mb-2"><b>Programming Languages:</b> Java, Python, JavaScript</p>
+    <p class="mb-2"><b>Frontend Frameworks:</b> React, Vite, Tailwind CSS</p>
+    <p class="mb-2"><b>Backend:</b> Spring Framework, Spring Boot, Spring JDBC, Microservices</p>
+    <p class="mb-2"><b>Database:</b> MySQL, MongoDB, PostgreSQL</p>
+    <p class="mb-2"><b>Cloud & Hosting:</b> AWS, Firebase, Vercel</p>
   </div>
 
-  <div class="section" style="text-align:center;">
-    <h2>🌐 Connect with Me</h2>
-    <p>LinkedIn: linkedin.com/in/prabhat-prajapati-01p6</p>
-    <p>Email: prabhatprajapti01@gmail.com</p>
+  <!-- Connect Section -->
+  <div class="max-w-3xl mx-auto my-10 p-6 bg-[#112240] border-l-4 border-[#64ffda] rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 text-center">
+    <h2 class="text-3xl text-[#64ffda] mb-4">🌐 Connect with Me</h2>
+    <p class="mb-2">LinkedIn: linkedin.com/in/prabhat-prajapati-01p6</p>
+    <p class="mb-2">Email: prabhatprajapti01@gmail.com</p>
   </div>
 
-  <p class="quote">⭐ "Code more, worry less!" 🚀</p>
+  <!-- Quote -->
+  <p class="text-center text-[#64ffda] text-xl italic my-10">
+    ⭐ "Code more, worry less!" 🚀
+  </p>
+
 </body>
 </html>
