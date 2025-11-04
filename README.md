@@ -48,21 +48,9 @@ I'm a passionate full-stack developer who loves building **production-ready appl
 ### **E-Commerce Backend**
 - **Tech:** Spring Boot, JPA, MySQL, Docker  
 - **Summary:** Modular microservice backend for payments & orders  
-- **Repo:** `link-to-repo`
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prabhatprajapati01&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatprajapati01&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatprajapati01&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 - **Portfolio:** https://prabhat-dis.vercel.app  
