@@ -1,62 +1,43 @@
-# 👋 Hi, I'm **Prabhat Prajapati**
-### 🚀 Full Stack Developer | Java Backend Specialist | React Enthusiast
+<h1 align="center">✨ Prabhat Prajapati ✨</h1>
+<p align="center">Full Stack Developer (Java + React)</p>
 
-I'm a passionate full-stack developer who loves building **production-ready applications**, writing **clean and optimized code**, and solving **real-world problems** with technology. My strong focus is on **Java + Spring Boot** on the backend and **React + Tailwind** on the frontend.
+<br/>
 
----
-
-## ✅ About Me
--  ⚙️ I work with **Spring Boot** to build clean and reliable REST APIs  
-- ⚡ Comfortable using **React**, **Java**, **Tailwind CSS**, and modern frontend workflows  
-- 🔐 Familiar with **authentication**, **authorization**, and **JWT-based security**  
-- 🗄️ Use **MySQL**, **MongoDB**, and relational database design principles in projects  
-- ☁️ Use platforms like **AWS** and **Vercel** for deployment and hosting  
-- 💡 I prefer writing code that stays clean, modular, and easy to maintain  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
-### **Frontend:**
-`React` • `Tailwind CSS` • `JavaScript` • `Vite`
-
-### **Backend:**
-`Java` • `Spring Boot` • `Spring Security` • `JPA` • `Microservices`
-
-### **Database:**
-`MySQL` • `MongoDB` • `PostgreSQL`
-
-### **Tools & Cloud:**
-`Git` • `Postman` • `Docker` • `AWS` • `Firebase` • `Vercel`
+## 👋 About Me
+Hi, I'm **Prabhat** — I like building clean and functional web applications.  
+Mostly work with **Java**, **Spring Boot**, **React**, and modern UI tools.
 
 ---
 
-## 💼 Professional Highlights
-- ✅ Designed and built production-ready REST APIs with Spring Boot  
-- ✅ Implemented secure authentication & authorization using JWT and Spring Security  
-- ✅ Built responsive SPAs with React and optimized client-side performance  
-- ✅ Wrote efficient SQL queries and worked on DB schema design  
-- ✅ Deployed applications on Vercel / AWS and automated builds with CI pipelines
+## ⚡ Tech I Use
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Frontend:** React, Tailwind CSS  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Postman, Vercel  
 
 ---
 
-## 💡 Featured Projects
-### **Smart Inventory Management**
-- **Tech:** React, Spring Boot, MySQL, JWT  
-- **Summary:** Real-time stock tracking + automated alerts  
-- **Repo:** `link-to-repo`
-
-### **E-Commerce Backend**
-- **Tech:** Spring Boot, JPA, MySQL, Docker  
-- **Summary:** Modular microservice backend for payments & orders  
+## 📌 Featured Project
+### 🔗 Portfolio Website  
+**https://prabhat-dis.vercel.app**  
+A minimal, fast, and well-designed personal portfolio.
 
 ---
-
 
 ## 🌐 Connect With Me
 - **Portfolio:** https://prabhat-dis.vercel.app  
 - **LinkedIn:** https://linkedin.com/in/prabhat-prajapati-01p6  
-- **Email:** prabhatprajapti01@gmail.com
+- **Email:** prabhatprajapti01@gmail.com  
 
 ---
 
-### ⭐ "Write code that feels alive — clean, efficient, and meaningful."
+<p align="center">⭐ Thanks for visiting! ⭐</p>
