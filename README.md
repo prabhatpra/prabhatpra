@@ -1,78 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PraBhaT PraJaPaTi</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gradient-to-br from-[#0a192f] to-[#020c1b] text-[#ccd6f6] font-sans">
+# 👋 Hi, I'm **Prabhat Prajapati**
 
-  <!-- Navbar -->
-  <nav class="fixed w-full top-0 bg-[#0a192f]/80 backdrop-blur-md z-50 shadow-md">
-    <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-[#64ffda]">Prabhat</h1>
-      <div class="space-x-6 text-lg hidden md:flex">
-        <a href="#about" class="hover:text-[#64ffda] transition">About</a>
-        <a href="#tech" class="hover:text-[#64ffda] transition">Tech Stack</a>
-        <a href="#connect" class="hover:text-[#64ffda] transition">Connect</a>
-      </div>
-    </div>
-  </nav>
+### 🚀 Full Stack Developer | Java Backend Specialist | React Enthusiast
 
-  <!-- Hero Section -->
-  <section class="flex flex-col justify-center items-center text-center h-screen px-4">
-    <h1 class="text-5xl md:text-7xl font-extrabold text-[#64ffda] animate-pulse drop-shadow-[0_0_25px_rgba(100,255,218,0.7)] leading-tight">
-      Hey there, I'm <span class="text-white">PraBhaT PraJaPaTi</span> 👋
-    </h1>
-    <p class="mt-4 text-xl md:text-2xl text-[#64ffda]">
-      🚀 Full Stack Developer | 💻 Java Expert | ❤️ Lifelong Learner
-    </p>
-    <button class="mt-8 px-6 py-3 text-lg font-semibold bg-[#64ffda] text-[#0a192f] rounded-xl shadow-lg hover:bg-[#52e6c1] transition duration-300">
-      View My Work
-    </button>
-  </section>
+I'm a passionate full‑stack developer who loves building **production‑ready applications**, writing **clean and optimized code**, and solving **real-world problems** with technology. My strong focus is on **Java + Spring Boot** on the backend and **React + Tailwind** on the frontend.
 
-  <!-- About Me Section -->
-  <section id="about" class="max-w-4xl mx-auto my-20 p-8 bg-[#112240] border-l-4 border-[#64ffda] rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300">
-    <h2 class="text-3xl text-[#64ffda] mb-6 font-bold">🧑‍💻 About Me</h2>
-    <ul class="space-y-3 text-lg leading-relaxed">
-      <li>✔️ Java Full Stack Developer with 3+ years of real-world experience</li>
-      <li>✔️ Passionate about creating scalable, efficient, and secure web applications</li>
-      <li>✔️ Proficient in Java, React, Spring Boot, REST APIs, and system design</li>
-      <li>✔️ Strong team player who loves collaborating and mentoring others</li>
-      <li>✔️ Highly focused on clean code, performance, and maintainability</li>
-      <li>✔️ Always exploring new technologies and development patterns</li>
-    </ul>
-    <p class="mt-6 text-[#64ffda] italic text-lg text-center">
-      💡 "Code should be simple, readable, and powerful."
-    </p>
-  </section>
+---
 
-  <!-- Tech Stack Section -->
-  <section id="tech" class="max-w-4xl mx-auto my-20 p-8 bg-[#112240] border-l-4 border-[#64ffda] rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300">
-    <h2 class="text-3xl text-[#64ffda] mb-6 font-bold">🚀 Tech Stack</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-lg">
-      <p><b>Programming Languages:</b> Java, Python, JavaScript</p>
-      <p><b>Frontend:</b> React, Vite, Tailwind CSS</p>
-      <p><b>Backend:</b> Spring Boot, Spring Security, Microservices, JDBC</p>
-      <p><b>Database:</b> MySQL, MongoDB, PostgreSQL</p>
-      <p><b>Cloud:</b> AWS, Firebase</p>
-      <p><b>Deployment:</b> Vercel, Render</p>
-    </div>
-  </section>
+## ✅ About Me
 
-  <!-- Connect Section -->
-  <section id="connect" class="max-w-4xl mx-auto my-20 p-8 text-center bg-[#112240] border-l-4 border-[#64ffda] rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300">
-    <h2 class="text-3xl text-[#64ffda] mb-6 font-bold">🌐 Connect with Me</h2>
-    <p class="text-xl mb-2">LinkedIn:<br> <span class="text-[#64ffda]">linkedin.com/in/prabhat-prajapati-01p6</span></p>
-    <p class="text-xl mb-2">Email:<br> <span class="text-[#64ffda]">prabhatprajapti01@gmail.com</span></p>
-  </section>
+* 🔥 Experienced in building scalable REST APIs using **Spring Boot**
+* ⚡ Skilled in **React**, **Java**, **Tailwind CSS**, and modern frontend tooling
+* 🛠️ Strong understanding of **authentication**, **authorization**, and **JWT security**
+* 📦 Solid experience with **MySQL**, **MongoDB**, and relational design
+* ☁️ Hands-on with **AWS**, **Vercel**, and cloud deployments
+* 💡 I focus on writing code that is clean, modular, and easy to maintain
 
-  <!-- Quote -->
-  <p class="text-center text-[#64ffda] text-2xl italic my-16">
-    ⭐ "Code more, worry less!" 🚀
-  </p>
+---
 
-</body>
-</html>
+## 🚀 Tech Stack
+
+### **Frontend:**
+
+`React` • `Tailwind CSS` • `JavaScript` • `Vite`
+
+### **Backend:**
+
+`Java` • `Spring Boot` • `Spring Security` • `JPA` • `Microservices`
+
+### **Database:**
+
+`MySQL` • `MongoDB` • `PostgreSQL`
+
+### **Tools & Cloud:**
+
+`Git` • `Postman` • `Docker` • `AWS` • `Firebase` • `Vercel`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prabhatprajapati01&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatprajapati01&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatprajapati01&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 💼 Featured Skills
+
+* ✅ API Development (RESTful Services)
+* ✅ Authentication & Authorization (JWT)
+* ✅ Database Schema Design
+* ✅ Responsive UI/UX
+* ✅ Debugging & Performance Optimization
+
+---
+
+## 🌐 Connect With Me
+
+* **Portfolio:** [https://prabhat-dis.vercel.app](https://prabhat-dis.vercel.app)
+* **LinkedIn:** [https://linkedin.com/in/prabhat-prajapati-01p6](https://linkedin.com/in/prabhat-prajapati-01p6)
+* **Email:** [prabhatprajapti01@gmail.com](mailto:prabhatprajapti01@gmail.com)
+
+**Want to connect?** Click the portfolio link above to see a live, animated version of my work — open to collaboration, freelance, or full-time opportunities.
+
+---
+
+### ⭐ "Write code that feels alive – clean, efficient, and meaningful."
