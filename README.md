@@ -18,6 +18,8 @@
 
 <!-- ================= TECH STACK ================= -->
 
+## ⚙️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -32,9 +34,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-<p align="center">
-<b style="color:#58A6FF;">About Me</b>
-</p>
+## 🧠 About Me
 
 <p align="center">
 I am an <b>Aspiring Backend Developer</b> focused on building  
@@ -46,22 +46,20 @@ I follow <b>backend-first design</b> and build APIs that are
 <b>structured</b>, <b>predictable</b>, and <b>easy to maintain</b>.
 </p>
 
-<br/>
+---
 
 <!-- ================= PROJECTS ================= -->
 
-<p align="center">
-<b style="color:#58A6FF;">Featured Projects</b>
-</p>
+## 🚀 Projects
 
-### 🔹 Portfolio Website  
+### 🌐 Portfolio Website  
 - Built using React + Tailwind  
 - Focused on performance & minimal UI  
 - Live: https://prabhat-dis.vercel.app  
 
 ---
 
-### 🔹 Authentication System (JWT)  
+### 🔐 Authentication System (JWT) 
 - Spring Boot REST API  
 - Login / Signup functionality  
 - Token-based authentication  
@@ -69,7 +67,7 @@ I follow <b>backend-first design</b> and build APIs that are
 
 ---
 
-### 🔹 Order Management System  
+### 📦 Order Management System
 - CRUD APIs (Create, Read, Update, Delete)  
 - Layered Architecture  
 - MySQL integration  
@@ -77,17 +75,10 @@ I follow <b>backend-first design</b> and build APIs that are
 
 ---
 
-<br/>
 
 <!-- ================= GITHUB STATS ================= -->
 
-<p align="center">
-<b style="color:#58A6FF;">GitHub Stats</b>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatpra&show_icons=true&theme=tokyonight&cache_seconds=60"/>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatpra&theme=tokyonight"/>
@@ -97,13 +88,21 @@ I follow <b>backend-first design</b> and build APIs that are
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpra&layout=compact&theme=tokyonight"/>
 </p>
 
-<br/>
+---
+
+<!-- ================= GRAPH ================= -->
+
+## ⚡ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatpra&theme=react-dark&hide_border=true"/>
+</p>
+
+---
 
 <!-- ================= SKILLS ================= -->
 
-<p align="center">
-<b style="color:#58A6FF;">Core Skills</b>
-</p>
+## ⚙️ Core Skills
 
 <p align="center">
 <b>Backend:</b> Java · Spring Boot · REST APIs · Layered Architecture  
@@ -115,13 +114,11 @@ I follow <b>backend-first design</b> and build APIs that are
 <b>Tools:</b> Git · GitHub · Postman · Vercel  
 </p>
 
-<br/>
+---
 
 <!-- ================= LEARNING ================= -->
 
-<p align="center">
-<b style="color:#58A6FF;">Learning & Growth</b>
-</p>
+## 🚀 Learning & Growth
 
 <p align="center">
 ✔ Solving DSA problems regularly  
@@ -131,9 +128,11 @@ I follow <b>backend-first design</b> and build APIs that are
 ✔ Learning system design basics  
 </p>
 
-<br/>
+---
 
 <!-- ================= CONTACT ================= -->
+
+## 🤝 Connect With Me
 
 <p align="center">
 <a href="https://prabhat-dis.vercel.app">Portfolio</a>
@@ -146,6 +145,8 @@ I follow <b>backend-first design</b> and build APIs that are
 <p align="center">
 <sub><b>Consistency beats intensity.</b></sub>
 </p>
+
+---
 
 <!-- ================= FOOTER ================= -->
 
