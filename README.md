@@ -18,19 +18,30 @@
 
 <!-- ================= TECH STACK ================= -->
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Competencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-1F1F1F?style=flat"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/REST_APIs-1F1F1F?style=flat&logo=postman&logoColor=white" height="32"/>
+  <br/>
+  <!-- Databases & Frontend -->
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="32"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" height="32"/>
+  <br/>
+  <!-- Tools & OS -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" height="32"/>
 </p>
 
-<hr/>
+---
 
 <!-- ================= ABOUT ================= -->
 
@@ -52,29 +63,29 @@ I follow <b>backend-first design</b> and build APIs that are
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website  
-- Built using React + Tailwind  
-- Focused on performance & minimal UI  
-- Live: https://prabhat-dis.vercel.app  
-
----
-
-### 🔐 Authentication System (JWT) 
-- Spring Boot REST API  
-- Login / Signup functionality  
-- Token-based authentication  
-- Secure API design  
+### 🔐 Authentication System (JWT)
+- **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL
+- Implemented secure user authentication & authorization with role-based access.
+- Designed stateless session management using JSON Web Tokens.
+- **Links:** [GitHub Repo](#)
 
 ---
 
 ### 📦 Order Management System
-- CRUD APIs (Create, Read, Update, Delete)  
-- Layered Architecture  
-- MySQL integration  
-- Exception handling  
+- **Tech Stack:** Spring Boot, Spring Data JPA, MySQL, REST APIs
+- Developed robust CRUD APIs following a clean **Layered Architecture** (Controller, Service, Repository).
+- Integrated **Global Exception Handling** (`@ControllerAdvice`) and request data validation.
+- Integrated Stripe Payment Gateway for seamless and secure checkout flows.
+- **Links:** [GitHub Repo](#)
 
 ---
 
+### 🌐 Portfolio Website  
+- **Tech Stack:** React, Tailwind CSS, Vercel
+- Built a minimal, high-performance responsive personal portfolio to showcase projects.
+- **Links:** [Live Demo](https://prabhat-dis.vercel.app) · [GitHub Repo](#)
+
+---
 
 <!-- ================= GITHUB STATS ================= -->
 
@@ -105,13 +116,11 @@ I follow <b>backend-first design</b> and build APIs that are
 ## ⚙️ Core Skills
 
 <p align="center">
-<b>Backend:</b> Java · Spring Boot · REST APIs · Layered Architecture  
+<b>Backend:</b> Java · Spring Boot · Spring Security · REST APIs · Layered Architecture  
 <br/>
-<b>Frontend:</b> React · Tailwind · Responsive UI  
+<b>Frontend:</b> React · Tailwind CSS · Responsive UI  
 <br/>
-<b>Database:</b> MySQL · SQL  
-<br/>
-<b>Tools:</b> Git · GitHub · Postman · Vercel  
+<b>Database & Tools:</b> MySQL · PostgreSQL · Git · GitHub · Postman · Jira · Vercel  
 </p>
 
 ---
@@ -121,11 +130,11 @@ I follow <b>backend-first design</b> and build APIs that are
 ## 🚀 Learning & Growth
 
 <p align="center">
-✔ Solving DSA problems regularly  
+✔ Solving Data Structures & Algorithms (DSA) problems regularly  
 <br/>
-✔ Practicing backend interview questions  
+✔ Practicing core Java & backend interview concepts  
 <br/>
-✔ Learning system design basics  
+✔ Exploring System Design basics & microservices  
 </p>
 
 ---
@@ -151,7 +160,5 @@ I follow <b>backend-first design</b> and build APIs that are
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <a href="https://prabhat-dis.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Portfolio&fontSize=45&fontAlignY=40&gradientColor=[#FF5F6D,#FFC371]" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Keep%20Coding!&fontSize=45&fontAlignY=40&gradientColor=[#FF5F6D,#FFC371]" />
 </p>
