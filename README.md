@@ -188,7 +188,7 @@ Java · Spring Boot · Spring Security · REST APIs · Layered Architecture
 <br/><br/>
 
 <b>Frontend:</b>  
-React · Tailwind CSS · Responsive UI
+React + Vite · Tailwind CSS · Responsive UI
 
 <br/><br/>
 
