@@ -264,6 +264,7 @@ A scalable, production-grade e-commerce REST API — built to demonstrate real b
   <img
     alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/prabhatpra/prabhatpra/output/github-contribution-grid-snake.svg"
+    width="90%"
   />
 </picture>
 
