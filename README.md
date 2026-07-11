@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/Portfolio-2E86FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/Resume-2E86FF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
-</a>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2E86FF?style=flat-square" alt="Open to Work"/>
