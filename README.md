@@ -235,9 +235,7 @@ A scalable, production-grade e-commerce REST API — built to demonstrate real b
 ## GitHub Statistics
 
 <div align="center">
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=prabhatpra&show_icons=true&theme=default&hide_border=true&title_color=2E86FF&icon_color=2E86FF&text_color=333333&bg_color=ffffff" height="165" alt="GitHub Stats"/>
- -->
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatpra&theme=default&hide_border=true&ring=2E86FF&fire=2E86FF&currStreakLabel=2E86FF" height="165" alt="GitHub Streak Stats"/>
 
 <br/>
