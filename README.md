@@ -238,10 +238,6 @@ A scalable, production-grade e-commerce REST API — built to demonstrate real b
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatpra&theme=default&hide_border=true&ring=2E86FF&fire=2E86FF&currStreakLabel=2E86FF" height="165" alt="GitHub Streak Stats"/>
 
-<br/>
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpra&layout=compact&hide_border=true&title_color=2E86FF&text_color=333333&bg_color=ffffff&langs_count=8" height="165" alt="Most Used Languages"/>
--->
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatpra&theme=minimal&hide_border=true&line=2E86FF&point=2E86FF" width="90%" alt="Contribution Activity Graph"/>
