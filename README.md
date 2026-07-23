@@ -205,7 +205,6 @@ A scalable, production-grade e-commerce REST API — built to demonstrate real b
 <td width="50%" valign="top">
 
 **Operations**
-- Inventory / Stock Management
 - Payment Gateway Integration (Stripe / Razorpay)
 - Email Notifications
 
